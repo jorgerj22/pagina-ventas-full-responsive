@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-    background: url(./imagenes/imagen.jpg);
+    background: url(../image/pexels-karolina-grabowska-4968389.jpg);
     background-size: cover;
     background-attachment: fixed;
   }

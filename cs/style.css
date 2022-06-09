@@ -44,6 +44,11 @@ img {
   transition: all 0.5s;
   z-index: 999999;
 }
+
+.main-header__txt{
+  font-size: 18px;
+}
+
 .menu{
   position: absolute;
   top: 180px;
